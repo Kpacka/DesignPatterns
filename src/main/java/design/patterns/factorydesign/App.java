@@ -1,4 +1,4 @@
-package design.patterns;
+package design.patterns.factorydesign;
 
 public class App {
     public static void main(String[] args){

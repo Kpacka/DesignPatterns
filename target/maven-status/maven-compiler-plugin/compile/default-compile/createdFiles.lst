@@ -1,0 +1,8 @@
+design/patterns/factorydesign/RomeSnowboard.class
+design/patterns/factorydesign/Snowboard.class
+design/patterns/builder/filters/TenSecondLogFilter.class
+design/patterns/factorydesign/SnowboardFactory.class
+design/patterns/builder/filters/TenSecondLogFilter$1.class
+design/patterns/factorydesign/RomeFactory.class
+design/patterns/builder/LoggerBuilder.class
+design/patterns/factorydesign/App.class
