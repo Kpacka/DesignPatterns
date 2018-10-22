@@ -1,4 +1,4 @@
-package design.patterns.factorydesign;
+package design.patterns.creational.factorydesign;
 
 public class RomeSnowboard implements Snowboard {
     @Override

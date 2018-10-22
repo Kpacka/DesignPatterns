@@ -1,4 +1,4 @@
-package design.patterns.builder;
+package design.patterns.creational.builder;
 
 import java.util.logging.Filter;
 import java.util.logging.Handler;

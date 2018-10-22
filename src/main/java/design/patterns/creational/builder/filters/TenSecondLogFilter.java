@@ -1,4 +1,4 @@
-package design.patterns.builder.filters;
+package design.patterns.creational.builder.filters;
 
 
 import java.util.concurrent.TimeUnit;
